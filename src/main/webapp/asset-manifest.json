@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.82ff57d4.chunk.css",
+    "main.js": "/static/js/main.bfd37a4f.chunk.js",
+    "main.js.map": "/static/js/main.bfd37a4f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.75bb4c4e.chunk.js": "/static/js/2.75bb4c4e.chunk.js",
+    "static/js/2.75bb4c4e.chunk.js.map": "/static/js/2.75bb4c4e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0dfc917e55f2a78d4bd235a74d065bb4.js": "/precache-manifest.0dfc917e55f2a78d4bd235a74d065bb4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.82ff57d4.chunk.css.map": "/static/css/main.82ff57d4.chunk.css.map",
+    "static/media/DFILogo.png": "/static/media/DFILogo.742bc46a.png",
+    "static/media/Features.module.css": "/static/media/analytics.92e9724a.png",
+    "static/media/AboutUs.module.css": "/static/media/chatbot.28c46de0.png",
+    "static/media/Message.module.css": "/static/media/robot.6b617478.png"
+  }
+}
