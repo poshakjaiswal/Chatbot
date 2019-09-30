@@ -6,6 +6,7 @@ mvn clean install tomcat7:run
 In order to login to the backend use the following username and password:
 
 username: admin
+
 password: admin
 
 # Video
