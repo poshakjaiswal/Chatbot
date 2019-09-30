@@ -1,0 +1,16 @@
+.App {
+  overflow-X:hidden;
+}
+
+
+
+input:not([type]), input[type=text], input[type=password], input[type=email], input[type=url], input[type=time], input[type=date], input[type=datetime], input[type=datetime-local], input[type=tel], input[type=number], input[type=search], textarea.materialize-textarea {
+  border-bottom: none !important;
+  border-bottom-color:white !important;
+}
+
+input:not([type]):focus, input[type=text], input[type=password], input[type=email], input[type=url], input[type=time], input[type=date], input[type=datetime], input[type=datetime-local], input[type=tel], input[type=number], input[type=search], textarea.materialize-textarea {
+  border-bottom: none !important;
+  border-bottom-color:white !important;
+  box-shadow:0 0 0 #ffff !important;
+}
